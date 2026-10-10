@@ -1,0 +1,18 @@
+{
+  "name": "StoreWise — Smart Post-Harvest Storage & Loss Prevention",
+  "short_name": "StoreWise",
+  "description": "Smart post-harvest crop storage and spoilage prevention system for farmers. Store smarter. Prevent loss. Sell smarter.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
